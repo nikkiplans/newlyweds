@@ -3,23 +3,94 @@
     {
       "label": "📌 Pinned",
       "notes": [
-        "id": "note1",
+        {
+          "id": "note1",
           "title": "💍 HOUSTON JUST-MARRIED CHECKLIST",
           "preview": "Texas Newlywed Admin Reset",
           "tags": ["Summer", "Pending", "Utility"],
-          "content": "<h3>…</h3>\n<fieldset class=\"checklist\">…</fieldset>\n…"
+          "content": "<h3>💍 HOUSTON JUST-MARRIED CHECKLIST</h3>\n<p><strong>Texas Newlywed Admin Reset</strong><br>\nName changes are optional. If you are not changing names, skip all name-change steps and jump straight to HR, insurance, and voter updates.</p>\n\n<h2>✅ STEP-BY-STEP MASTER CHECKLIST</h2>\n\n<fieldset class=\"checklist\">\n  <legend>1. File Your Marriage License</legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Return your signed marriage license to your issuing county clerk</label></li>\n    <li><label><input type=\"checkbox\"> Best option: Hand-deliver if local (Harris County, Galveston County, etc.)</label></li>\n    <li><label><input type=\"checkbox\"> Backup: Mail it with tracking</label></li>\n    <li><label><input type=\"checkbox\"> Confirm return was recorded</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>2. Order Certified Copies</legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Request 2–3 certified marriage certificates</label></li>\n    <li><label><input type=\"checkbox\"> Use for: Social Security, DPS, Passport, banks, HR, insurance</label></li>\n    <li><label><input type=\"checkbox\"> Never mail your only copy</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>3. Social Security Name Update <em>(IF changing name)</em></legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Wait ~30 days after wedding date</label></li>\n    <li><label><input type=\"checkbox\"> Complete Form SS-5</label></li>\n    <li><label><input type=\"checkbox\"> Visit SSA office in person OR mail documents</label></li>\n    <li><label><input type=\"checkbox\"> Receive new SS card (same number, new name)</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>4. Texas DPS Driver License / ID</legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Book DPS appointment online (required)</label></li>\n    <li><label><input type=\"checkbox\"> Bring certified marriage certificate, current ID, SS card or receipt</label></li>\n    <li><label><input type=\"checkbox\"> Pay ~$11 duplicate license fee</label></li>\n    <li><label><input type=\"checkbox\"> Receive temporary paper license</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>5. Passport Update <em>(IF applicable)</em></legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Passport &lt;1 yr old → DS-5504 (FREE)</label></li>\n    <li><label><input type=\"checkbox\"> Passport &gt;1 yr old → DS-82 ($130 + shipping)</label></li>\n    <li><label><input type=\"checkbox\"> Mail passport, photo, marriage cert copy, form</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>6. Employers + Benefits Updates</legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Notify HR/payroll of name change</label></li>\n    <li><label><input type=\"checkbox\"> Submit SSA & marriage docs if requested</label></li>\n    <li><label><input type=\"checkbox\"> Add spouse to health, life & retirement plans</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>7. Banks & Credit Accounts</legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Visit bank branch in person</label></li>\n    <li><label><input type=\"checkbox\"> Bring new ID & marriage certificate</label></li>\n    <li><label><input type=\"checkbox\"> Request updated debit & credit cards, checks</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>8. Insurance & Medical Records</legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Update health, auto, home/renters policies</label></li>\n    <li><label><input type=\"checkbox\"> Request new insurance ID cards</label></li>\n    <li><label><input type=\"checkbox\"> Notify doctor & dentist offices</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>9. Texas Voter Registration</legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Update via Texas Voter Online or mail form</label></li>\n  </ul>\n</fieldset>\n\n<fieldset class=\"checklist\">\n  <legend>10. Catch-All Misc Updates</legend>\n  <ul>\n    <li><label><input type=\"checkbox\"> Credit cards, loans & investments</label></li>\n    <li><label><input type=\"checkbox\"> Utilities, subscriptions & rewards</label></li>\n    <li><label><input type=\"checkbox\"> Professional licenses & social profiles</label></li>\n  </ul>\n</fieldset>"
         }
       ]
     },
     {
-      "label": "📜 Reflection",
+      "label": "📜 Resources",
       "notes": [
         {
           "id": "noteR1",
-          "title": "Reflection + Wrap Up",
-          "preview": "",
-          "tags": ["Winter", "Pending"],
-          "content": ""
+          "title": "STEP 1 — Marriage License Tips",
+          "preview": "mail vs. in-person, officiant confirmations",
+          "tags": ["Utility"],
+          "content": "<p>Your marriage is not legally recorded until your license is returned to the county clerk.</p>\n<ul>\n  <li>Texas allows mail or in-person return.</li>\n  <li>Houston & Galveston couples strongly prefer in-person so nothing gets lost.</li>\n  <li>Your officiant usually handles this — but confirm it was filed anyway.</li>\n</ul>\n<p>Once recorded, your clerk mails your original certificate back within 1–2 weeks.</p>"
+        },
+        {
+          "id": "noteR2",
+          "title": "STEP 2 — Certified Copies Guide",
+          "preview": "why 2–3 copies, where to order",
+          "tags": ["Utility"],
+          "content": "<p>Certified copies are official duplicates with raised seals.</p>\n<ul>\n  <li>You will need them to change your name and update benefits.</li>\n  <li>Order 2–3 copies minimum.</li>\n  <li>Cheaper and faster to order extras now than later.</li>\n  <li>Request from the county where your license was issued.</li>\n</ul>"
+        },
+        {
+          "id": "noteR3",
+          "title": "STEP 3 — Social Security Update",
+          "preview": "Form SS-5, timing & sensory tips",
+          "tags": ["Utility"],
+          "content": "<p>Your name does NOT change automatically when you marry. SS update must come first.</p>\n<ul>\n  <li>Wait ~30 days after wedding for record processing.</li>\n  <li>Complete Form SS-5 and either visit SSA office (fastest) or mail docs.</li>\n  <li>Bring marriage certificate, ID, completed SS-5. No fee.</li>\n  <li>New SS card arrives in 1–2 weeks.</li>\n</ul>\n<h4>SSA Sensory Tips</h4>\n<ul>\n  <li>Offices can have metal detectors and fluorescent lights.</li>\n  <li>Go early mid-week; bring noise-canceling headphones or fidgets.</li>\n</ul>"
+        },
+        {
+          "id": "noteR4",
+          "title": "STEP 4 — Texas DPS ID Update",
+          "preview": "appointments, fees & sensory tips",
+          "tags": ["Utility"],
+          "content": "<p>Texas requires you to update your driver ID after a name change. Appointments only.</p>\n<ul>\n  <li>Book early—Houston slots fill weeks out; suburban offices quieter.</li>\n  <li>Bring marriage certificate, current ID, SS receipt.</li>\n  <li>Fee: ~$11; temp paper license same day, permanent by mail in 2–3 weeks.</li>\n</ul>\n<h4>DPS Sensory Tips</h4>\n<ul>\n  <li>Mega-centers are loud. Request corner seating or wait outside until called.</li>\n</ul>"
+        },
+        {
+          "id": "noteR5",
+          "title": "STEP 5 — Passport Update",
+          "preview": "forms, timelines & travel tip",
+          "tags": ["Utility"],
+          "content": "<p>If changing your name internationally, update your passport:</p>\n<ul>\n  <li>&lt;1 yr old → DS-5504 (FREE)</li>\n  <li>&gt;1 yr old → DS-82 ($130 + shipping)</li>\n  <li>Mail passport, photo, marriage certificate copy, and form.</li>\n</ul>\n<p>Processing: ~8–11 weeks. If traveling soon, wait until after travel so tickets match.</p>"
+        },
+        {
+          "id": "noteR6",
+          "title": "STEP 6 — Employers & Benefits",
+          "preview": "HR script + 30-day window",
+          "tags": ["Utility"],
+          "content": "<p>Your payroll name must match SSA. Notify HR once SS card arrives.</p>\n<ul>\n  <li>Update payroll, health insurance, life & retirement beneficiaries.</li>\n  <li>Deadline: 30 days post-wedding.</li>\n</ul>\n<h4>HR Script</h4>\n<blockquote>“Hi, I recently got married and changed my legal name to ______. My SS record is updated; can you update payroll and benefits?”</blockquote>"
+        },
+        {
+          "id": "noteR7",
+          "title": "STEP 7 — Banks & Credit",
+          "preview": "in-person branch, teller script",
+          "tags": ["Utility"],
+          "content": "<p>Most banks require you to update name in-branch.</p>\n<ul>\n  <li>Bring new ID and marriage certificate.</li>\n  <li>Request updated debit & credit cards and checks.</li>\n</ul>\n<h4>Teller Script</h4>\n<blockquote>“I need to update my account name after marriage. Here’s my new ID and certificate.”</blockquote>"
+        },
+        {
+          "id": "noteR8",
+          "title": "STEP 8 — Insurance & Medical",
+          "preview": "update policies & providers",
+          "tags": ["Utility"],
+          "content": "<p>Update all policies and medical records:</p>\n<ul>\n  <li>Health, auto, home/renters insurance</li>\n  <li>Request new insurance ID cards</li>\n  <li>Notify doctor & dentist offices</li>\n</ul>"
+        },
+        {
+          "id": "noteR9",
+          "title": "STEP 9 — Texas Voter Update",
+          "preview": "online portal or mail form",
+          "tags": ["Utility"],
+          "content": "<p>Update your voter registration via the Texas Voter Online portal or mail in a form. Do before any election to avoid check-in issues.</p>"
+        },
+        {
+          "id": "noteR10",
+          "title": "STEP 10 — Misc Updates",
+          "preview": "low-urgency admin tasks",
+          "tags": ["Utility"],
+          "content": "<p>No rush—update these casually:</p>\n<ul>\n  <li>Credit cards, loans & investments</li>\n  <li>Utilities, subscriptions & rewards</li>\n  <li>Professional licenses & social profiles</li>\n</ul>\n<p>Carry an extra marriage certificate copy during this period.</p>"
+        },
+        {
+          "id": "noteR11",
+          "title": "💛 Final Notes",
+          "preview": "optional name-change reminders",
+          "tags": ["Utility"],
+          "content": "<ul>\n  <li>Name change is optional—your marriage is valid regardless.</li>\n  <li>You can change names months or years later—no deadline.</li>\n  <li>Each spouse must file paperwork separately.</li>\n  <li>All steps here are DIY & free—no paid kits needed.</li>\n</ul>\n<p>This admin phase is slow but temporary. Handle it gently, one step at a time. No rush—you’re doing great.</p>"
         }
       ]
     }
