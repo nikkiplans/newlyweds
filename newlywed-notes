@@ -1,32 +1,6 @@
 {
   "groups": [
     {
-      "label": "Intro",
-      "notes": [
-        {
-          "id": "note0",
-          "title": "Intro",
-          "preview": "Getting Started",
-          "tags": ["Intro", "Setup"],
-          "content": ""
-        },
-        {
-          "id": "note0a",
-          "title": "The Basic Principles",
-          "preview": "",
-          "tags": ["Intro", "Setup"],
-          "content": ""
-        },
-        {
-          "id": "note0b",
-          "title": "The Basic Tools",
-          "preview": "",
-          "tags": ["Intro", "Setup"],
-          "content": ""
-        }
-      ]
-    },
-    {
       "label": "📌 Pinned",
       "notes": [
         {
